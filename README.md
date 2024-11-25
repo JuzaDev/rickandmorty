@@ -45,3 +45,14 @@ Ensure you have the following installed:
    git clone https://github.com/JuzaDev/rickandmorty.git
    cd rickandmorty
    ```
+
+2. **Start the project**:
+
+   ```bash
+   npm run dev
+   ```
+   or
+   ```bash
+   npm run build
+   npm run preview
+   ```
