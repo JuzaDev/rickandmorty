@@ -42,6 +42,17 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/rick-and-morty-manager.git
-   cd rick-and-morty-manager
+   git clone https://github.com/JuzaDev/rickandmorty.git
+   cd rickandmorty
+   ```
+
+2. **Start the project**:
+
+   ```bash
+   npm run dev
+   ```
+   or
+   ```bash
+   npm run build
+   npm run preview
    ```
